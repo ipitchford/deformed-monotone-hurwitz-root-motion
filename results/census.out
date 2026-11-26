@@ -1,0 +1,134 @@
+d=4 (1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=0; exceptions: none
+d=4 (1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=0; exceptions: none
+d=4 (1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=2; exceptions: none
+d=4 (2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=2; exceptions: limit -2: genus 0->1 at-limit
+d=4 (4,): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=2; exceptions: none
+d=5 (1, 1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=4; exceptions: none
+d=5 (1, 1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=4; exceptions: none
+d=5 (1, 1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=4; exceptions: none
+d=5 (1, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=3; exceptions: none
+d=5 (1, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=4; exceptions: none
+d=5 (2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=3; exceptions: none
+d=5 (5,): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=4; exceptions: none
+d=6 (1, 1, 1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (1, 1, 1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (1, 1, 1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (1, 1, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (1, 1, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (1, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (1, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=5; exceptions: limit -3/2: genus 0->1 moves-away
+d=6 (2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=6 (6,): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=6; exceptions: none
+d=7 (1, 1, 1, 1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 1, 1, 1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 1, 1, 1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 1, 1, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 1, 1, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=9; exceptions: none
+d=7 (1, 1, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 1, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=9; exceptions: none
+d=7 (1, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (1, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=9; exceptions: none
+d=7 (2, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (2, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=8; exceptions: none
+d=7 (7,): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=9; exceptions: none
+d=8 (1, 1, 1, 1, 1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 1, 1, 1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 1, 1, 1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 1, 1, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=10; exceptions: none
+d=8 (1, 1, 1, 1, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 1, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 1, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=10; exceptions: none
+d=8 (1, 1, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 1, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 2, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=10; exceptions: none
+d=8 (1, 2, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (1, 7): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (2, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=10; exceptions: limit -4/3: genus 0->1 moves-away; limit -4/3: genus 1->2 moves-away
+d=8 (2, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=10; exceptions: limit -4/3: genus 0->1 moves-away
+d=8 (2, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=10; exceptions: none
+d=8 (2, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (3, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (4, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=8 (8,): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=11; exceptions: none
+d=9 (1, 1, 1, 1, 1, 1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 1, 1, 1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 1, 1, 1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 1, 1, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 1, 1, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 1, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 1, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=14; exceptions: none
+d=9 (1, 1, 1, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 1, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=14; exceptions: none
+d=9 (1, 1, 2, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 2, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 1, 7): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=14; exceptions: none
+d=9 (1, 2, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 2, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 2, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 2, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 3, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 4, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (1, 8): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=14; exceptions: none
+d=9 (2, 2, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (2, 2, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (2, 3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (2, 7): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (3, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (3, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (4, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=13; exceptions: none
+d=9 (9,): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=14; exceptions: none
+d=10 (1, 1, 1, 1, 1, 1, 1, 1, 1, 1): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 1, 1, 1, 1, 1, 1, 1, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 1, 1, 1, 1, 1, 1, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 1, 1, 1, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 1, 1, 1, 1, 1, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 1, 1, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 1, 1, 5): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 1, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 1, 1, 1, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 1, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 1, 6): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 2, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 1, 1, 2, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 1, 7): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 2, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 1, 2, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 2, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 2, 6): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 3, 5): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 4, 4): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 1, 8): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 2, 2, 2, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (1, 2, 2, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 2, 3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 2, 7): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 3, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 3, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 4, 5): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (1, 9): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=17; exceptions: none
+d=10 (2, 2, 2, 2, 2): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: limit -5/4: genus 0->1 moves-away; limit -5/4: genus 1->2 moves-away
+d=10 (2, 2, 2, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: limit -5/4: genus 0->1 moves-away
+d=10 (2, 2, 3, 3): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=15; exceptions: none
+d=10 (2, 2, 6): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: limit -5/4: genus 0->1 moves-away
+d=10 (2, 3, 5): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (2, 4, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: limit -5/4: genus 0->1 moves-away
+d=10 (2, 8): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (3, 3, 4): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (3, 7): real-rooted at every genus (window signs certified g>=0, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (4, 6): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (5, 5): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=16; exceptions: none
+d=10 (10,): real-rooted at every genus (window signs certified g>=1, exact root count below); monotone tail certified g>=17; exceptions: none
+census complete
+exit 0

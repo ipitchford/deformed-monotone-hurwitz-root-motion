@@ -1,0 +1,46 @@
+# SPDX-License-Identifier: MIT
+name: Replay
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+env:
+  PYTHONDONTWRITEBYTECODE: "1"
+jobs:
+  replay:
+    name: Manifest; eight scripts under python -O compared byte for byte; negative control
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check MANIFEST.sha256
+        run: sha256sum -c MANIFEST.sha256
+      - name: Install packages (versions of the release replay)
+        run: python3 -m pip install sympy==1.14.0 mpmath==1.3.0 numpy==2.5.5
+      - name: Run the eight scripts under -O in a copy of code/ and compare with results/
+        # Declared policy (also in README.md, ENVIRONMENT.txt and REPLAY_RECEIPT.md): each output, followed by the
+        # line "exit N", must equal results/<script>.out byte for byte. No tolerance is applied.
+        run: |
+          python3 -I -c 'import sys, sympy, mpmath, numpy; print(sys.version, sympy.__version__, mpmath.__version__, numpy.__version__)'
+          mkdir -p "$RUNNER_TEMP/run" "$RUNNER_TEMP/neg"
+          cp code/*.py "$RUNNER_TEMP/run/"; cp code/*.py "$RUNNER_TEMP/neg/"
+          cd "$RUNNER_TEMP/run"
+          for s in verify check_third_residue verify_hurwitz verify_multiple check_hurwitz figure2 occupancy census; do
+            python3 -B -O "$s.py" > "$s.out"; e=$?
+            echo "exit $e" >> "$s.out"
+            cmp "$s.out" "$GITHUB_WORKSPACE/results/$s.out"
+            echo "$s: exit $e, output identical"
+          done
+      - name: Negative control (second-term coefficient altered; must fail under -O)
+        run: |
+          cd "$RUNNER_TEMP/neg"
+          sed -i '121s/(D + profile.count(1) - 1)/(D + profile.count(1))/' verify.py
+          grep -q '(D - 1) \*\* r0 \* (D + profile.count(1)) \* (1 + t)' verify.py
+          if python3 -B -O verify.py > out.txt 2>&1; then echo "altered second term not detected"; exit 1; fi
+          grep -q 'CHECK FAILED: sp.expand(Phi\[D - 1\] - second) == 0' out.txt
+          echo "negative control detected"
+      - name: Working tree unchanged
+        run: test -z "$(git status --porcelain)"

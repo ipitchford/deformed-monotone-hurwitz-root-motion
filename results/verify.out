@@ -1,0 +1,23 @@
+d=2: leading coefficient checked
+d=3: both polar coefficients checked for all 3 profiles
+d=4, profile=(1, 1, 1, 1): monotonicity from g=0; tail bound g >= 1
+d=4, profile=(2, 1, 1): monotonicity from g=0; tail bound g >= 1
+d=4, profile=(2, 2): monotonicity from g=1; tail bound g >= 1
+d=4, profile=(3, 1): monotonicity from g=0; tail bound g >= 1
+d=4, profile=(4,): monotonicity from g=0; tail bound g >= 1
+d=4: both polar coefficients checked for all 5 profiles
+d=5, profile=(1, 1, 1, 1, 1): monotonicity from g=0; tail bound g >= 1
+d=5, profile=(2, 1, 1, 1): monotonicity from g=0; tail bound g >= 1
+d=5, profile=(2, 2, 1): monotonicity from g=0; tail bound g >= 1
+d=5, profile=(3, 1, 1): monotonicity from g=0; tail bound g >= 1
+d=5, profile=(3, 2): monotonicity from g=0; tail bound g >= 1
+d=5, profile=(4, 1): monotonicity from g=0; tail bound g >= 1
+d=5, profile=(5,): monotonicity from g=0; tail bound g >= 1
+d=5: both polar coefficients checked for all 7 profiles
+d=6: strict reversal checked by word counts at lengths 7 and 9
+d=3: both polar coefficients checked for all 6 unordered double profiles
+d=4: both polar coefficients checked for all 15 unordered double profiles
+d=6: short-cycle dependence checked in 16 repeated residue classes
+d=7: short-cycle dependence checked in 24 repeated residue classes
+d=8: short-cycle dependence checked in 41 repeated residue classes
+exit 0

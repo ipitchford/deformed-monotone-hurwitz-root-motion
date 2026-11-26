@@ -1,0 +1,4 @@
+sympy
+mpmath
+numpy
+# Python 3.10 or later. Lead replay: uv run --python 3.12 (resolved to CPython 3.14.7).

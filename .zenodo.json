@@ -1,0 +1,73 @@
+{
+ "title": "How the zeros of deformed monotone Hurwitz polynomials approach their limits",
+ "upload_type": "publication",
+ "publication_type": "preprint",
+ "description": "<p><strong>Unrefereed research candidate.</strong> Write a permutation of d items as a sequence of transpositions whose larger elements never decrease (a monotone factorisation) and which together act transitively. Weighting each factorisation by t for every distinct larger element it uses gives a polynomial in t. Coulter, Do and Moskovsky (Canad. J. Math., 2025) met these polynomials, the deformed monotone Hurwitz numbers, in integrals over complex Grassmannians and conjectured from data that their zeros are real, interlace, and, as the genus grows, approach the limits -(d-2), -(d-3)/2, ..., -1/(d-2) monotonically from a definite side (their Conjecture 3.15). The limits and eventual real-rootedness already follow from the leading large-genus term of Accadia, Lewa&#324;ski and Ruzza (2026); the direction of approach does not.</p><p><strong>Results.</strong> (1) The second large-genus term, exactly, for every ramification profile and for several marked profiles: it depends on the profile only through its number of fixed points, and its sign gives the predicted direction, so the conjecture holds in its eventual form with an explicit (far from optimal) genus threshold. (2) The direction does not hold from the start: for profiles (2,2) and (2,2,2) some zeros first move away. (3) For each of the 132 profiles with 4 to 10 items, exact certificates prove real zeros at every genus and list exactly when zeros move the wrong way: only 8 profiles, all made of even cycles, and never after genus 2. (4) The third term, which depends only on fixed points and 2-cycles; early terms see only short cycles. (5) In a uniformly random long factorisation, larger element b is used with probability (b-1)/(d-1), independently. (6) Why rows of the published tables coincide (removing a fixed point via the cut-and-join recursion), and the two- and three-term formulas reproduce the 15 rows of CDM's Figure 2 with relative displacement errors about 1.7e-4 and 5.5e-10.</p><p><strong>Limits.</strong> Fixed degree and growing genus only; the general threshold is far from optimal; real zeros and the exact direction at every genus are certified only up to d = 10, and interlacing at small genus is not certified; the joint regime and the real-Grassmannian (b-deformed) family remain open.</p><p><strong>Contents.</strong> The paper (LaTeX source and PDF) and eight Python scripts with their recorded outputs (exact arithmetic with Fractions and SymPy; mpmath only for comparisons with published decimals). Each script exits with an error on any failed check, also under python -O. Also included: bibliography, machine-readable index, research-gate record, review summary, replay receipt and SHA-256 sums.</p><p><strong>Assurance.</strong> Written proofs with exact computer checks. Internal AI-assisted review only: a five-reviewer Claude review panel, one revision round, a re-review, a proof audit of new and rewritten proofs, and clean replays with a negative control. No Astra/Codex review took place. This is not peer review, independent reproduction or formal verification. Creator: Anonymous. Text CC0-1.0; code MIT.</p>",
+ "creators": [
+  {
+   "name": "Anonymous"
+  }
+ ],
+ "access_right": "open",
+ "license": "cc-zero",
+ "version": "0.1.0-candidate",
+ "publication_date": "2026-11-26",
+ "keywords": [
+  "monotone Hurwitz numbers",
+  "Jucys-Murphy elements",
+  "real-rooted polynomials",
+  "interlacing",
+  "large genus asymptotics",
+  "Weingarten calculus",
+  "complex Grassmannians",
+  "symmetric group characters"
+ ],
+ "notes": "Code (*.py and the CI workflow) is MIT; prose, manuscript, recorded outputs and records are CC0-1.0.",
+ "related_identifiers": [
+  {
+   "identifier": "https://github.com/ipitchford/deformed-monotone-hurwitz-root-motion/tree/v0.1.0-candidate",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://evidencepress.org/releases/deformed-monotone-hurwitz-root-motion/",
+   "relation": "isDocumentedBy",
+   "scheme": "url"
+  },
+  {
+   "identifier": "10.4153/s0008414x25101168",
+   "relation": "references",
+   "scheme": "doi"
+  },
+  {
+   "identifier": "10.1112/blms.70170",
+   "relation": "references",
+   "scheme": "doi"
+  },
+  {
+   "identifier": "arXiv:2604.12880",
+   "relation": "references",
+   "scheme": "arxiv"
+  },
+  {
+   "identifier": "arXiv:2604.01190",
+   "relation": "references",
+   "scheme": "arxiv"
+  },
+  {
+   "identifier": "arXiv:2506.04002",
+   "relation": "references",
+   "scheme": "arxiv"
+  },
+  {
+   "identifier": "arXiv:2409.06655",
+   "relation": "references",
+   "scheme": "arxiv"
+  },
+  {
+   "identifier": "arXiv:2503.01920",
+   "relation": "references",
+   "scheme": "arxiv"
+  }
+ ]
+}

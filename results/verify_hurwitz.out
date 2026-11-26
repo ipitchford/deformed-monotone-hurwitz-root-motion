@@ -1,0 +1,5 @@
+Passed exact two-amplitude tests for 91 degree/profile/marker combinations.
+d=4, profile=(4,), t=1, counts: [5, 70, 735, 7040]
+d=4, profile=(4,), t=2, counts: [22, 310, 3262, 31270]
+d=4, profile=(4,), t=3, counts: [57, 810, 8547, 82020]
+exit 0

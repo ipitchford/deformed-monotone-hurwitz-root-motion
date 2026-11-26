@@ -1,0 +1,5 @@
+d=3: joint occupancy leading coefficients agree for every endpoint permutation (6 permutations)
+d=4: joint occupancy leading coefficients agree for every endpoint permutation (24 permutations)
+d=5: joint occupancy leading coefficients agree for every endpoint permutation (120 permutations)
+2136 endpoint/occupancy-set cases checked
+exit 0

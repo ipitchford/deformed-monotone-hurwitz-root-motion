@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using these metadata."
+type: software
+title: "How the zeros of deformed monotone Hurwitz polynomials approach their limits"
+abstract: "Unrefereed research candidate. Coulter, Do and Moskovsky conjectured that the zeros of deformed monotone Hurwitz polynomials are real, interlace and, as the genus grows, approach explicit limits from a definite side (their Conjecture 3.15). The limits follow from the leading large-genus term of Accadia, Lewański and Ruzza. This work computes the second term exactly for every ramification profile: it depends only on the number of fixed points and fixes the side and rate of approach, so the eventual form of Conjecture 3.15 holds with an explicit genus threshold. Monotonicity cannot start at genus zero in general. For all 132 profiles of degree 4 to 10, exact certificates prove real-rootedness at every genus and list exactly when zeros move away from their limits (8 profiles, never after genus 2). Further results: the third term, short-cycle dependence of early terms, the limiting law of the larger letters used, and an explanation of coincidences in the published tables."
+authors:
+  - name: "Anonymous"
+version: "0.1.0-candidate"
+date-released: "2026-11-26"
+doi: "10.5281/zenodo.24546686"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24546686"
+    description: "This version"
+  - type: doi
+    value: "10.5281/zenodo.24546685"
+    description: "All versions (concept DOI)"
+repository-code: "https://github.com/ipitchford/deformed-monotone-hurwitz-root-motion"
+url: "https://evidencepress.org/releases/deformed-monotone-hurwitz-root-motion/"
+license: CC0-1.0
+keywords:
+  - monotone Hurwitz numbers
+  - Jucys-Murphy elements
+  - real-rooted polynomials
+  - interlacing
+  - large genus asymptotics
+preferred-citation:
+  type: article
+  title: "How the zeros of deformed monotone Hurwitz polynomials approach their limits"
+  authors:
+    - name: "Anonymous"
+  year: 2026
+  doi: "10.5281/zenodo.24546686"
+  publisher:
+    name: "Zenodo"
+  notes: "Version 0.1.0-candidate; unrefereed"

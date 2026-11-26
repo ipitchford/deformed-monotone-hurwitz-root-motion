@@ -1,0 +1,302 @@
+{
+ "schemaVersion": "1.0",
+ "provenance": "Compiled 26 November 2026 for 0.1.0-candidate from the dated searches of the internal AI-assisted review (24 November 2026), the source reading record, refs.bib, REVIEW_SUMMARY.md and the paper's own positioning (Sections 1 and 8). It records scrutiny performed, not historical priority.",
+ "contributionMap": [
+  {
+   "claim": "Second large-genus term of the deformed monotone Hurwitz polynomials, exactly, for every profile and any finite list of profiles; depends only on the number of fixed points",
+   "unit": "statement",
+   "paperLocation": "Theorem 3.1, Corollary 3.2",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "Accadia-Lewanski-Ruzza arXiv:2604.12880 (leading term); Yang arXiv:2503.01920 (t = 1 structure; fixed-point coefficient for simple Hurwitz numbers)",
+   "verdict": "new-in-bounded-search",
+   "verdictNote": "no second term for the t-deformed monotone case found; analogy with Yang Theorem 1.3 credited"
+  },
+  {
+   "claim": "Eventual form of CDM Conjecture 3.15 (side and rate of approach of every zero) with an explicit genus threshold",
+   "unit": "statement",
+   "paperLocation": "Theorems 4.1 and 4.4",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "CDM Conjecture 3.15; limits and eventual real-rootedness from ALR",
+   "verdict": "new-in-bounded-search",
+   "verdictNote": "limits and eventual reality credited to ALR; direction not found elsewhere"
+  },
+  {
+   "claim": "Monotonicity fails from genus 0 for (2,2) and (2,2,2)",
+   "unit": "statement",
+   "paperLocation": "Theorem 5.1",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "CDM Conjecture 3.15 as stated",
+   "verdict": "new-in-bounded-search",
+   "verdictNote": "no counterexample found in the searched corpus"
+  },
+  {
+   "claim": "All 132 profiles of degrees 4-10: real-rooted at every genus; exact list of non-monotone steps (8 profiles, never after genus 2)",
+   "unit": "object",
+   "paperLocation": "Theorem 5.2; census.py",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "CDM numerical tables (degree 7, genus 10-20) and genus 0-1 proofs for one-cycle profiles",
+   "verdict": "new-in-bounded-search",
+   "verdictNote": "all-genus certificates not found"
+  },
+  {
+   "claim": "Third term (fixed points and 2-cycles); short-cycle dependence of early terms",
+   "unit": "statement",
+   "paperLocation": "Theorems 6.1-6.2",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "ALR Theorem B (completed-cycle, disconnected); Campion Loth-Rattan Eq. (20)",
+   "verdict": "partially-known-cited",
+   "verdictNote": "analogous statement for disconnected completed-cycle numbers credited to ALR"
+  },
+  {
+   "claim": "Limiting joint law of the larger letters used (independent Bernoulli, probability (b-1)/(d-1)); Poisson-binomial reading of real-rootedness",
+   "unit": "statement",
+   "paperLocation": "Propositions 7.1-7.2",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "standard real-rootedness/Bernoulli correspondence",
+   "verdict": "new-in-bounded-search",
+   "verdictNote": "occupancy law not found; the real-rootedness reading is classical"
+  },
+  {
+   "claim": "Fixed-point removal identity from CDM cut-and-join recursion; explanation of coincidences in CDM Figure 2",
+   "unit": "statement",
+   "paperLocation": "Proposition 4.5, Table 1",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "CDM Theorem 3.7 (cut-and-join recursion)",
+   "verdict": "partially-known-cited",
+   "verdictNote": "read off from CDM's own recursion, as the paper states"
+  },
+  {
+   "claim": "Methods: content-product formula for Jucys-Murphy elements, inclusion-exclusion over set partitions for transitivity, partial fractions; finite exponential-polynomial sign certificates",
+   "unit": "method",
+   "paperLocation": "Sections 2-5",
+   "searches": [
+    {
+     "date": "2026-11-24",
+     "corpus": "arXiv API (export.arxiv.org); Semantic Scholar citations of CDM and of Accadia-Lewanski-Ruzza and a relevance search; the Evidence Press corpus (site papers/ and the batch corpus list)",
+     "query": "\"monotone Hurwitz\" (43 hits, all titles inspected); \"large genus\" AND Hurwitz; Hurwitz AND \"varying genus\"; Grassmannian AND Weingarten; Coulter AND Hurwitz; \"hive number\"; Hurwitz AND \"real-rooted\"; \"weighted Hurwitz\" AND asymptotic; \"deformed monotone Hurwitz numbers roots large genus\""
+    },
+    {
+     "date": "2026-11-24",
+     "corpus": "the cited works, obtained and read: CDM (Canad. J. Math., open-access PDF), Accadia-Lewanski-Ruzza arXiv:2604.12880v1, Yang arXiv:2503.01920v1, Do-He-Robertson arXiv:2409.06655v1, Coulter-Do arXiv:2506.04002v1, Campion Loth-Rattan arXiv:2403.08354v2; Barazer-Louf arXiv:2604.01190 (abstract only)",
+     "query": "CDM Conjectures 3.13-3.15, Theorem 3.7, Proposition 3.9, Proposition 3.17 and Remark 3.18, Figures 2-3; ALR Lemma 2.3, Theorem 6, Theorem B, Theorem C, Eq. (1.26); Yang Theorem 1.1, Proposition 1.2, Theorem 1.3; DHR Conjecture 4.1; CLR Eq. (20); Coulter-Do Conjectures 4.21-4.22"
+    }
+   ],
+   "closestPriorWork": "standard Jucys-Murphy / character methods as in ALR and Yang",
+   "verdict": "partially-known-cited",
+   "verdictNote": "the paper calls the method standard; new input is the explicit second and third poles and the certificates"
+  }
+ ],
+ "sourcesReadInFull": [
+  {
+   "citation": "Coulter, X., Do, N. and Moskovsky, E. (2025), Integration on complex Grassmannians, deformed monotone Hurwitz numbers, and interlacing phenomena, Canad. J. Math., 1-40",
+   "usedFor": "definitions, conjectures, recursion, tables",
+   "readWhat": "pp. 16-25 and the definitions",
+   "date": "2026-11-24",
+   "evidenceLocator": "https://doi.org/10.4153/S0008414X25101168"
+  },
+  {
+   "citation": "Accadia, D., Lewanski, D. and Ruzza, G. (2026), On the large genus of Hurwitz numbers, arXiv:2604.12880v1",
+   "usedFor": "leading term",
+   "readWhat": "Lemma 2.3, Theorem 6, Theorems B and C, Eq. (1.26)",
+   "date": "2026-11-24",
+   "evidenceLocator": "https://arxiv.org/abs/2604.12880v1"
+  },
+  {
+   "citation": "Yang, C. (2025), The structures of simple Hurwitz numbers and monotone Hurwitz numbers with varying genus, arXiv:2503.01920v1",
+   "usedFor": "t = 1 structure; fixed-point formula",
+   "readWhat": "whole paper",
+   "date": "2026-11-24",
+   "evidenceLocator": "https://arxiv.org/abs/2503.01920v1"
+  },
+  {
+   "citation": "Do, N., He, J. and Robertson, H. (2024), The structure of Hurwitz numbers with fixed ramification profile and varying genus, arXiv:2409.06655v1",
+   "usedFor": "vanishing conjecture",
+   "readWhat": "Conjecture 4.1 and context",
+   "date": "2026-11-24",
+   "evidenceLocator": "https://arxiv.org/abs/2409.06655v1"
+  },
+  {
+   "citation": "Campion Loth, J. and Rattan, A. (2025), Centrality of star and monotone factorisations, Bull. London Math. Soc. 57(11), 3567-3585",
+   "usedFor": "tangent formula",
+   "readWhat": "Eq. (20) of arXiv:2403.08354v2",
+   "date": "2026-11-24",
+   "evidenceLocator": "https://doi.org/10.1112/blms.70170"
+  },
+  {
+   "citation": "Coulter, X. and Do, N. (2025), From Weingarten calculus for real Grassmannians to deformations of monotone Hurwitz numbers and Jucys-Murphy elements, arXiv:2506.04002v1",
+   "usedFor": "b-deformed conjectures",
+   "readWhat": "Conjectures 4.21-4.22 and context",
+   "date": "2026-11-24",
+   "evidenceLocator": "https://arxiv.org/abs/2506.04002v1"
+  }
+ ],
+ "limitationTriage": [
+  {
+   "limitation": "Results only for fixed degree and growing genus",
+   "closingQuestion": "Does a known result cover the joint regime?",
+   "triedOrSearched": "Barazer-Louf (one-part monotone, joint regime) found and cited",
+   "estimatedCost": "weeks",
+   "cheap": false,
+   "decision": "OPEN",
+   "reasonOpen": "Section 8",
+   "whyNotClosedNow": "needs different asymptotic methods"
+  },
+  {
+   "limitation": "General genus threshold far from optimal",
+   "closingQuestion": "Is there a cheap sharper threshold?",
+   "triedOrSearched": "census shows genus 0 or 2 suffices up to degree 10; Question 5.3 posed",
+   "estimatedCost": "weeks",
+   "cheap": false,
+   "decision": "OPEN",
+   "reasonOpen": "Section 8; Question 5.3",
+   "whyNotClosedNow": "no uniform argument found"
+  },
+  {
+   "limitation": "Real zeros and direction at every genus certified only up to degree 10; interlacing at small genus not certified",
+   "closingQuestion": "Can the census be extended cheaply?",
+   "triedOrSearched": "census through degree 10 (about one minute); interlacing certificates not attempted",
+   "estimatedCost": "days",
+   "cheap": false,
+   "decision": "OPEN",
+   "reasonOpen": "Section 8",
+   "whyNotClosedNow": "interlacing needs a different certificate"
+  },
+  {
+   "limitation": "b-deformed (real Grassmannian) family not treated",
+   "closingQuestion": "Does the method transfer?",
+   "triedOrSearched": "Coulter-Do conjectures read; method expected to apply",
+   "estimatedCost": "weeks",
+   "cheap": false,
+   "decision": "OPEN",
+   "reasonOpen": "Section 8",
+   "whyNotClosedNow": "not carried out"
+  },
+  {
+   "limitation": "No all-genus certificates in the first drafts",
+   "closingQuestion": "Can small degrees be certified at every genus?",
+   "triedOrSearched": "yes: Theorem 5.2 and census.py added in the revision",
+   "estimatedCost": "hours",
+   "cheap": true,
+   "decision": "CLOSED",
+   "reasonOpen": "",
+   "whyNotClosedNow": ""
+  },
+  {
+   "limitation": "Certificate scripts relied on assert in the source bundles",
+   "closingQuestion": "Do the checks fail correctly under python -O?",
+   "triedOrSearched": "explicit checks in every script; negative control exits 1 under -O",
+   "estimatedCost": "hours",
+   "cheap": true,
+   "decision": "CLOSED",
+   "reasonOpen": "",
+   "whyNotClosedNow": ""
+  },
+  {
+   "limitation": "Novelty rests on searches of limited scope",
+   "closingQuestion": "Would further indexes change attribution?",
+   "triedOrSearched": "arXiv API, Semantic Scholar citations, cited sources read",
+   "estimatedCost": "subscription indexes",
+   "cheap": false,
+   "decision": "OPEN",
+   "reasonOpen": "subscription indexes were outside the searched corpus",
+   "whyNotClosedNow": "recorded here; the paper positions its results against the sources read"
+  }
+ ],
+ "extensionScout": {
+  "by": "the internal review panel, the re-reviewer and the lead",
+  "date": "2026-11-24",
+  "proposals": [
+   "all-genus certificates for small degree",
+   "fixed-point identity and CDM Figure 2",
+   "all-genus interlacing certificates",
+   "multi-profile third term",
+   "joint degree-genus regime",
+   "b-deformation"
+  ],
+  "actions": [
+   "done: Theorem 5.2 and census.py",
+   "done: Proposition 4.5 and Table 1",
+   "not done: Section 8",
+   "not done: Section 8",
+   "not done: Section 8",
+   "not done: Section 8"
+  ]
+ }
+}
